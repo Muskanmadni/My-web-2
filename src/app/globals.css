@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.header{
+  background-color: blue; 
+  color: black;
+
+.header-button{
+  padding: 10px;;
+  align-items: center;
+  display: flex;
+  align-items: center; 
+  justify-content: center;
+  margin-left: 10px;
+  word-spacing: 10px;
+  gap: 7px;
+
+}
+}
+
